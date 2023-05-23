@@ -1,0 +1,26 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: aqua;
+}
+  
+h1 {
+    text-align: center;
+}
+  
+.weather-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: yellowgreen;
+}
+  
+.weather-card h2 {
+    margin: 0;
+}
+  
+.weather-card p {
+    margin-top: 5px;
+}
